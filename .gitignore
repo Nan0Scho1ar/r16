@@ -4,3 +4,4 @@ compiled/
 *.sexp
 *.patch
 **/token
+config.json
