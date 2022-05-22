@@ -1,0 +1,1 @@
+{"dc":{"author":"150945792889192448","body":"(delete-caller)","created":"2021-12-22T23:32:38.182000+00:00","data":{},"invocations":2},"rr":{"author":"150945792889192448","body":"(begin\n  (delete-caller)\n  (println \"https://www.youtube.com/watch?v=dQw4w9WgXcQ\"))\n","created":"2021-12-22T23:27:22.712000+00:00","data":{},"invocations":5}}
